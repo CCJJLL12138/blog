@@ -1,0 +1,22 @@
+/**
+ * 小游戏数据
+ * path 为游戏页面的路由路径
+ */
+export const games = [
+  {
+    id: 1,
+    name: "贪吃蛇",
+    description: "控制蛇吃食物，别撞到自己",
+    cover:
+      "https://t1.g.mi.com/thumbnail/jpeg/w980h90/AppStore/008df2940842d4383aee6d705185e60932d64bf7d",
+    path: "/games/snake",
+  },
+  {
+    id: 2,
+    name: "飞翔的小鸟",
+    description: "点击或按空格让小鸟飞起，穿过管道",
+    cover:
+      "https://puui.qpic.cn/vpic_cover/s0559qxvs64/s0559qxvs64_hz.jpg/1280",
+    path: "/games/flappy-bird",
+  },
+];

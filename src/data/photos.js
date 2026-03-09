@@ -1,0 +1,29 @@
+/**
+ * 摄影作品数据
+ */
+export const photos = [
+  { id: 1, src: "/images/P1003254.JPG" },
+  { id: 2, src: "/images/P1003285.JPG" },
+  { id: 3, src: "/images/P1003321.JPG" },
+  { id: 4, src: "/images/P1013458.JPG" },
+  { id: 5, src: "/images/P1002517.JPG" },
+  { id: 6, src: "/images/P1002518.JPG" },
+  { id: 7, src: "/images/P1001208.JPG" },
+  { id: 8, src: "/images/P1001261.JPG" },
+  { id: 9, src: "/images/P1001262.JPG" },
+  { id: 10, src: "/images/P1001273.JPG" },
+  { id: 11, src: "/images/P1001322.JPG" },
+  { id: 12, src: "/images/P1001412.JPG" },
+  { id: 13, src: "/images/P1001459.JPG" },
+  { id: 14, src: "/images/P1001493.JPG" },
+  { id: 15, src: "/images/P1001714.JPG" },
+  { id: 16, src: "/images/P1001808.JPG" },
+  { id: 17, src: "/images/P1001908.JPG" },
+  { id: 18, src: "/images/P1001931.JPG" },
+  { id: 19, src: "/images/P1002013.JPG" },
+  { id: 20, src: "/images/P1002571.JPG" },
+  { id: 21, src: "/images/P1002585.JPG" },
+  { id: 22, src: "/images/P1002861.JPG" },
+  { id: 23, src: "/images/P1002939.JPG" },
+  { id: 24, src: "/images/P1013652.JPG" },
+];
